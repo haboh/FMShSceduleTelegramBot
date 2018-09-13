@@ -5,3 +5,5 @@ In congig File:
 2) ChanelId - Id of the chanel where you would like to post images
 3) ListOfNamesOfImages - List of names of already posted images (do not change)
 4) DirectoryWithImages - Directory from what bot takes images
+
+That's everything what you should change for working your bot
