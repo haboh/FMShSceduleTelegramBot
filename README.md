@@ -7,3 +7,4 @@ In congig File:
 4) DirectoryWithImages - Directory from what bot takes images
 
 That's everything what you should change for working your bot
+To run bot, run bot.py
